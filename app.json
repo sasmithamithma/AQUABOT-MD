@@ -9,7 +9,7 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "AQUA-MD=tpc21npY2Duf",
+            "description": "AQUA-MD=5JLD8OMT41h8",
             "required": true
              },
              "REMOVE_BG_API_KEY": {
