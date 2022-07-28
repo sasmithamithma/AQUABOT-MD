@@ -192,12 +192,12 @@
       },
          "HEROKU_API_KEY": {
             "description": "",
-            "value": "" ,
+            "value": "c507fce0-757e-4d03-baa3-777f8eec4147" ,
             "required": true
       },
          "HEROKU_APP_NAME": {
             "description": "",
-            "value": "mithmaquabot" ,
+            "value": "kaweeshaquabot" ,
             "required": true
       },
          "BAN_MESSAGE": {
